@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patric\\source\\repos\\Demo\\Demo\\Demo.csproj": {}
+    "C:\\Users\\patric\\Source\\Repos\\demo\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patric\\source\\repos\\Demo\\Demo\\Demo.csproj": {
+    "C:\\Users\\patric\\Source\\Repos\\demo\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patric\\source\\repos\\Demo\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Users\\patric\\Source\\Repos\\demo\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "C:\\Users\\patric\\source\\repos\\Demo\\Demo\\Demo.csproj",
+        "projectPath": "C:\\Users\\patric\\Source\\Repos\\demo\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\patric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patric\\source\\repos\\Demo\\Demo\\obj\\",
+        "outputPath": "C:\\Users\\patric\\Source\\Repos\\demo\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
